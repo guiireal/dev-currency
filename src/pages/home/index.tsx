@@ -1,32 +1,49 @@
-import { useEffect, useState } from "react";
+import { FormEvent, useEffect, useState } from "react";
 import { BiSearch } from "react-icons/bi";
-import { Link } from "react-router";
-import { Coin, CoinLibResponse } from "../../types";
-import { formatBRL } from "../../utils";
+import { Link, useNavigate } from "react-router";
+import data from "../../data/coins.json";
+import { Coin } from "../../types";
+import { formatBRL, formatNumber } from "../../utils";
 import styles from "./styles.module.css";
 
 export default function Home() {
   const [coins, setCoins] = useState<Coin[]>([]);
+  const [searchCoin, setSearchCoin] = useState("");
+
+  const navigate = useNavigate();
+
+  function handleSearch(event: FormEvent) {
+    event.preventDefault();
+
+    if (!searchCoin) {
+      return;
+    }
+
+    navigate(`/detail/${searchCoin}`);
+  }
 
   useEffect(() => {
-    fetch("https://sujeitoprogramador.com/api-cripto/?key=49bb99321215c02f")
-      .then((response) => response.json())
-      .then((data: CoinLibResponse) => {
-        const coinsFormatted = data.coins.slice(0, 30).map((coin: Coin) => ({
-          ...coin,
-          price: formatBRL(coin.price),
-          delta_24h: coin.delta_24h.replace(",", "."),
-          market_cap: formatBRL(coin.market_cap),
-        }));
+    setTimeout(() => {
+      const coinsFormatted = data.coins.slice(0, 15).map((coin) => ({
+        ...coin,
+        price: formatBRL(coin.price),
+        delta_24h: formatNumber(coin.delta_24h),
+        market_cap: formatBRL(coin.market_cap),
+      }));
 
-        setCoins(coinsFormatted);
-      });
+      setCoins(coinsFormatted);
+    }, 1000);
   }, []);
 
   return (
     <main className={styles.container}>
-      <form className={styles.form}>
-        <input type="text" placeholder="Digite o símbolo da moeda: BTC..." />
+      <form className={styles.form} onSubmit={handleSearch}>
+        <input
+          type="text"
+          placeholder="Digite o símbolo da moeda: BTC..."
+          value={searchCoin}
+          onChange={(event) => setSearchCoin(event.target.value)}
+        />
         <button type="submit">
           <BiSearch size={30} color="#fff" />
         </button>
@@ -61,7 +78,7 @@ export default function Home() {
                 }
                 data-label="Volume"
               >
-                <span>{coin.delta_24h}</span>
+                <span>{coin?.delta_24h}</span>
               </td>
             </tr>
           ))}

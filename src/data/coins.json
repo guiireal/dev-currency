@@ -1,0 +1,1006 @@
+{
+    "coins": [
+        {
+            "symbol": "USDT",
+            "show_symbol": null,
+            "name": "Tether",
+            "rank": 3,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "BTC",
+            "show_symbol": null,
+            "name": "Bitcoin",
+            "rank": 1,
+            "price": "587219.22754336",
+            "market_cap": "11627127441072.88671875",
+            "volume_24h": "24977663239.284198761",
+            "delta_24h": "70,98"
+        },
+        {
+            "symbol": "ETH",
+            "show_symbol": null,
+            "name": "Ethereum",
+            "rank": 2,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "USDC",
+            "show_symbol": null,
+            "name": "USCoin",
+            "rank": 5,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "SOL",
+            "show_symbol": null,
+            "name": "Sola Token",
+            "rank": 1262,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "BNB",
+            "show_symbol": null,
+            "name": "Binance Coin",
+            "rank": 4,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "XRP",
+            "show_symbol": null,
+            "name": "XRP",
+            "rank": 6,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "DOGE",
+            "show_symbol": null,
+            "name": "Dogecoin",
+            "rank": 9,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "XLM",
+            "show_symbol": null,
+            "name": "Stellar",
+            "rank": 21,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "AVAX",
+            "show_symbol": null,
+            "name": "Avalanche",
+            "rank": 1868,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "LINK",
+            "show_symbol": null,
+            "name": "ChainLink",
+            "rank": 16,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "RUNE",
+            "show_symbol": null,
+            "name": "RuneStoneCoin",
+            "rank": 1556,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "FTM",
+            "show_symbol": null,
+            "name": "Fantom Token",
+            "rank": 27,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "WBTC",
+            "show_symbol": null,
+            "name": "wBTC",
+            "rank": 787,
+            "price": "586954.9788909655",
+            "market_cap": "119604403003.590927124",
+            "volume_24h": "566476480.7874522209",
+            "delta_24h": "71,24"
+        },
+        {
+            "symbol": "FET",
+            "show_symbol": null,
+            "name": "Fetch AI",
+            "rank": 508,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "TRX",
+            "show_symbol": null,
+            "name": "TRON",
+            "rank": 19,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "AAVE",
+            "show_symbol": null,
+            "name": "AAVE(AAVE",
+            "rank": 1879,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "CHZ",
+            "show_symbol": null,
+            "name": "Chiliz",
+            "rank": 1818,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "LTC",
+            "show_symbol": null,
+            "name": "Litecoin",
+            "rank": 14,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "DOT",
+            "show_symbol": null,
+            "name": "Polkadot",
+            "rank": 10,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "ADA",
+            "show_symbol": null,
+            "name": "Cardano",
+            "rank": 8,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "ZEC",
+            "show_symbol": null,
+            "name": "ZCash",
+            "rank": 31,
+            "price": "359.9653864841",
+            "market_cap": "5877611661.2010173798",
+            "volume_24h": "403886341.1431427002",
+            "delta_24h": "123,59"
+        },
+        {
+            "symbol": "UNI",
+            "show_symbol": null,
+            "name": "Universe",
+            "rank": 712,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "FTT",
+            "show_symbol": null,
+            "name": "FarmaTrust",
+            "rank": 1657,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "SUN",
+            "show_symbol": null,
+            "name": "SunCoin Network",
+            "rank": 1635,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "DAI",
+            "show_symbol": null,
+            "name": "Dai",
+            "rank": 15,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "ATOM",
+            "show_symbol": null,
+            "name": "Atomic Coin",
+            "rank": 18,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "INJ",
+            "show_symbol": null,
+            "name": "Injex",
+            "rank": 1707,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "ETC",
+            "show_symbol": null,
+            "name": "Ethereum Classic",
+            "rank": 22,
+            "price": "45.6269339801",
+            "market_cap": "5904624598.1928863525",
+            "volume_24h": "42508381.6502610669",
+            "delta_24h": "-49,46"
+        },
+        {
+            "symbol": "DASH",
+            "show_symbol": null,
+            "name": "Dash",
+            "rank": 45,
+            "price": "220.7944295563",
+            "market_cap": "2667876976.6776070595",
+            "volume_24h": "119275787.476395607",
+            "delta_24h": "69,46"
+        },
+        {
+            "symbol": "CNET3",
+            "show_symbol": "CNET",
+            "name": "Contractnet",
+            "rank": 4648,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": 0
+        },
+        {
+            "symbol": "FIL",
+            "show_symbol": null,
+            "name": "FileCoin",
+            "rank": 34,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "VITE",
+            "show_symbol": null,
+            "name": "VITE",
+            "rank": 162,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "AR",
+            "show_symbol": null,
+            "name": "Cappasity",
+            "rank": 1033,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "SUPER",
+            "show_symbol": null,
+            "name": "SuperCoin",
+            "rank": 820,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "CELO",
+            "show_symbol": null,
+            "name": "Celo",
+            "rank": 1892,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "HBAR",
+            "show_symbol": null,
+            "name": "Hedera Hashgraph",
+            "rank": 1842,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "MKR",
+            "show_symbol": null,
+            "name": "Maker",
+            "rank": 37,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "AXS",
+            "show_symbol": null,
+            "name": "AXS",
+            "rank": 1586,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "TROY",
+            "show_symbol": null,
+            "name": "Troy",
+            "rank": 1857,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "ALGO",
+            "show_symbol": null,
+            "name": "Algorand",
+            "rank": 24,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "VET",
+            "show_symbol": null,
+            "name": "VeChain",
+            "rank": 25,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "CKB",
+            "show_symbol": null,
+            "name": "Nervos Network",
+            "rank": 1830,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "CVC",
+            "show_symbol": null,
+            "name": "Civic",
+            "rank": 103,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "GRT",
+            "show_symbol": null,
+            "name": "GoldenRatio Token",
+            "rank": 1853,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "STORJ",
+            "show_symbol": null,
+            "name": "Storj",
+            "rank": 89,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "LUNA",
+            "show_symbol": null,
+            "name": "Luna",
+            "rank": 7,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "CLV",
+            "show_symbol": null,
+            "name": "CleverCoin",
+            "rank": 903,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "XZC",
+            "show_symbol": null,
+            "name": "ZCoin",
+            "rank": 2729,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": 0
+        },
+        {
+            "symbol": "EOS",
+            "show_symbol": null,
+            "name": "EOS",
+            "rank": 29,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "DAPS",
+            "show_symbol": null,
+            "name": "DAPS coin",
+            "rank": 1696,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": 0
+        },
+        {
+            "symbol": "THETA",
+            "show_symbol": null,
+            "name": "Theta Token",
+            "rank": 26,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "ATM",
+            "show_symbol": null,
+            "name": "Autumncoin",
+            "rank": 900,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "KEY2",
+            "show_symbol": "KEY",
+            "name": "SelfKey",
+            "rank": 161,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "KSM",
+            "show_symbol": null,
+            "name": "KSM",
+            "rank": 1903,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "ORN",
+            "show_symbol": null,
+            "name": "Orion Protocol",
+            "rank": 1891,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "BCH",
+            "show_symbol": null,
+            "name": "Bitcoin Cash",
+            "rank": 17,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "FARM",
+            "show_symbol": null,
+            "name": "FARM Coin",
+            "rank": 1507,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "FLM",
+            "show_symbol": null,
+            "name": "Folm",
+            "rank": 1265,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "SNX",
+            "show_symbol": null,
+            "name": "Synthetix",
+            "rank": 47,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "RSR",
+            "show_symbol": null,
+            "name": "Reserve Rights",
+            "rank": 126,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "CTXC",
+            "show_symbol": null,
+            "name": "Cortex",
+            "rank": 138,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "MLN",
+            "show_symbol": null,
+            "name": "Melon",
+            "rank": 134,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "XVS",
+            "show_symbol": null,
+            "name": "Vsync",
+            "rank": 993,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "1INCH",
+            "show_symbol": null,
+            "name": "1INCH token",
+            "rank": 1884,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "COTI",
+            "show_symbol": null,
+            "name": "Coti",
+            "rank": 1854,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "IOT",
+            "show_symbol": null,
+            "name": "IOTA",
+            "rank": 35,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "DEGO",
+            "show_symbol": null,
+            "name": "DeroGold",
+            "rank": 1770,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "NEO",
+            "show_symbol": null,
+            "name": "NEO",
+            "rank": 38,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "REN",
+            "show_symbol": null,
+            "name": "Republic Protocol",
+            "rank": 72,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "POND",
+            "show_symbol": null,
+            "name": "Marlin",
+            "rank": 1883,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "MANA",
+            "show_symbol": null,
+            "name": "Decentraland",
+            "rank": 33,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "COMP",
+            "show_symbol": null,
+            "name": "Compound Coin",
+            "rank": 1229,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "ZIL",
+            "show_symbol": null,
+            "name": "Zilliqa",
+            "rank": 48,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "UMA",
+            "show_symbol": null,
+            "name": "UMA",
+            "rank": 1901,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "BAR",
+            "show_symbol": null,
+            "name": "Titanium Blockchain",
+            "rank": 1028,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "SUSHI",
+            "show_symbol": null,
+            "name": "SUSHI",
+            "rank": 1900,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "XMR",
+            "show_symbol": null,
+            "name": "Monero",
+            "rank": 20,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "XVG",
+            "show_symbol": null,
+            "name": "Verge",
+            "rank": 84,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "GT",
+            "show_symbol": null,
+            "name": "GTcoin",
+            "rank": 440,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "KNC",
+            "show_symbol": null,
+            "name": "KyberNetwork Crystal",
+            "rank": 49,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "ANKR",
+            "show_symbol": null,
+            "name": "Ankr Network",
+            "rank": 1817,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "LSK",
+            "show_symbol": null,
+            "name": "Lisk",
+            "rank": 70,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "TUSD",
+            "show_symbol": null,
+            "name": "TrueUSD",
+            "rank": 91,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "BLZ2",
+            "show_symbol": "BLZ",
+            "name": "Bluzelle",
+            "rank": 145,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "ATOM2",
+            "show_symbol": "ATOM",
+            "name": "Cosmos",
+            "rank": 23,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "MBL",
+            "show_symbol": null,
+            "name": "MobileCash",
+            "rank": 420,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "QTUM",
+            "show_symbol": null,
+            "name": "QTUM",
+            "rank": 54,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "ZRX",
+            "show_symbol": null,
+            "name": "0x",
+            "rank": 59,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "IOTX",
+            "show_symbol": null,
+            "name": "IoTeX",
+            "rank": 100,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "TLM",
+            "show_symbol": null,
+            "name": "Talium",
+            "rank": 1525,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "BAT",
+            "show_symbol": null,
+            "name": "Basic Attention Token",
+            "rank": 46,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "LRC",
+            "show_symbol": null,
+            "name": "Loopring",
+            "rank": 51,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "LPT",
+            "show_symbol": null,
+            "name": "Livepeer",
+            "rank": 1749,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "DCR",
+            "show_symbol": null,
+            "name": "Decred",
+            "rank": 53,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "DUSK",
+            "show_symbol": null,
+            "name": "Dusk Network",
+            "rank": 1876,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "ONG",
+            "show_symbol": null,
+            "name": "onG.social",
+            "rank": 150,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "MTL",
+            "show_symbol": null,
+            "name": "Metal",
+            "rank": 105,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "IOST",
+            "show_symbol": null,
+            "name": "IOStoken",
+            "rank": 63,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": "-100,00"
+        },
+        {
+            "symbol": "BCK",
+            "show_symbol": null,
+            "name": "BTC King",
+            "rank": 3835,
+            "price": "0",
+            "market_cap": "0",
+            "volume_24h": "0",
+            "delta_24h": 0
+        }
+    ],
+    "last_updated_timestamp": 1735005958,
+    "remaining": 59
+}
