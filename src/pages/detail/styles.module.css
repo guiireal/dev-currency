@@ -1,0 +1,29 @@
+.container {
+  padding: 0 14px;
+  color: #fff;
+}
+
+.center {
+  text-align: center;
+  margin-bottom: 14px;
+}
+
+.content {
+  max-width: 428px;
+  background-color: #0f0f0f;
+  margin: 24px auto;
+  padding: 24px;
+  border-radius: 8px;
+}
+
+.content p:not(:last-of-type) {
+  margin-bottom: 16px;
+}
+
+.tdProfit {
+  color: #12f98a;
+}
+
+.tdLoss {
+  color: #f91257;
+}
