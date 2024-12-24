@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useParams } from "react-router";
+import { useNavigate, useParams } from "react-router";
 import data from "../../data/coins.json";
 import { Coin } from "../../types";
 import { formatBRL, formatNumber } from "../../utils";
@@ -11,6 +11,8 @@ export default function Detail() {
   const [coin, setCoin] = useState<Coin>();
   const [loading, setLoading] = useState(true);
 
+  const navigate = useNavigate();
+
   useEffect(() => {
     setTimeout(() => {
       const coinData = data.coins.find(
@@ -19,6 +21,7 @@ export default function Detail() {
       );
 
       if (!coinData) {
+        navigate("/");
         return;
       }
 
